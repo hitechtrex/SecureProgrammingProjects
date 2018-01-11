@@ -1,0 +1,4 @@
+<item>
+<description>Widget</description>
+<price>500.0</price>
+<quantity>1</quantity><price>1.0</price><quantity>1</quantity></item>

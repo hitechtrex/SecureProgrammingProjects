@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="passcode">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="key" type="xs:string"/>
+				<xs:element name="securitycode" type="xs:string"/>
+				<xs:element name="pin" type="xs:string"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>
